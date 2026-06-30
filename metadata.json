@@ -1,0 +1,6 @@
+{
+  "name": "Micro Pathology Lab",
+  "description": "A professional and adaptive accounting and laboratory management software for Micro Pathology Lab with local SQLite persistence, reports, dashboard, and offline support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
